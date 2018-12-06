@@ -1,0 +1,4 @@
+turtlebot3/turtlebot3_navigation
+/home/reinier/turtlebot_ws/devel/.private/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig-version.cmake /home/reinier/turtlebot_ws/devel/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig-version.cmake
+/home/reinier/turtlebot_ws/devel/.private/turtlebot3_navigation/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig.cmake /home/reinier/turtlebot_ws/devel/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig.cmake
+/home/reinier/turtlebot_ws/devel/.private/turtlebot3_navigation/lib/pkgconfig/turtlebot3_navigation.pc /home/reinier/turtlebot_ws/devel/lib/pkgconfig/turtlebot3_navigation.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/reinier/turtlebot_ws/devel/.private/turtlebot3_teleop/setup.sh

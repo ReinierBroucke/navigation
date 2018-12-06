@@ -1,0 +1,8 @@
+prefix=/home/reinier/turtlebot_ws/devel/.private/turtlebot3_slam
+
+Name: turtlebot3_slam
+Description: Description of turtlebot3_slam
+Version: 1.1.0
+Cflags: -I/home/reinier/turtlebot_ws/src/turtlebot3/turtlebot3_slam/include
+Libs: -L/home/reinier/turtlebot_ws/devel/.private/turtlebot3_slam/lib 
+Requires: roscpp sensor_msgs
